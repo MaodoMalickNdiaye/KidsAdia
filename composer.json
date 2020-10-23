@@ -2,8 +2,7 @@
     "name": "33755/site-adia-kids",
     "require": {
         "twbs/bootstrap": "^4.5",
-        "components/jquery": "^3.5",
-        "no": "yes"
+        "components/jquery": "^3.5"
     },
     "license": "gpl 3.0",
     "authors": [
