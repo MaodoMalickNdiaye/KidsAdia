@@ -1,0 +1,15 @@
+{
+    "name": "33755/site-adia-kids",
+    "require": {
+        "twbs/bootstrap": "^4.5",
+        "components/jquery": "^3.5",
+        "no": "yes"
+    },
+    "license": "gpl 3.0",
+    "authors": [
+        {
+            "name": "Maodo Malick Ndiaye",
+            "email": "milckndiaye2003@yahoo.fr"
+        }
+    ]
+}
